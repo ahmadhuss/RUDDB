@@ -85,12 +85,11 @@ tool automatically fetch all databases that you have in your server.
 
 ![image4](/resc/sc3.jpg)
 
-* Here is a <a href="https://drive.google.com/file/d/0B1H5fdK2PJAnSGRWZE9Ra3lEbkU" target="_blank">Video</a> which shows how to use this
 * **ERROR ISSUE :** _When you update or delete any row if the error came_ "Cannot Delete or update a parent Row" then it's a forign key
-constraints error you can handle that error with manuall query field.
+constraints error you can handle that error with manual query field.
 
 #####Project
-In this project there is .jar file of the fully MySql support db which i generated for checking purpose.<a href="https://raw.githubusercontent.com/ahmadHuss/RUDDB/master/resc/RUD%20DB%20mySql.jar"
+In this project there is .jar file of the fully MySql support db which i generated for checking purposes.<a href="https://raw.githubusercontent.com/ahmadHuss/RUDDB/master/resc/RUD%20DB%20mySql.jar"
 target="_blank">Download jar File</a> If you want to run that file you should install _Java RunTime Environement_ 
 which is free.<a href="https://java.com/download" target="_blank">Downloaded it Here</a>
 
